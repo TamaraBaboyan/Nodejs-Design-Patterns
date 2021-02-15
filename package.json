@@ -1,0 +1,23 @@
+{
+  "name": "Nodejs-Design-Patterns",
+  "version": "1.0.0",
+  "description": "In this repo I covered 13 of the 23 the classic Object Oriented Design patterns as defined by the Gang of Four. I’m excited to implement the same design patterns that engineers use in Java and C++, but this time with the world’s most popular programming language, JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TamaraBaboyan/Nodejs-Design-Patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TamaraBaboyan/Nodejs-Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/TamaraBaboyan/Nodejs-Design-Patterns#readme",
+  "dependencies": {
+    "morse": "^0.1.0"
+  }
+}
